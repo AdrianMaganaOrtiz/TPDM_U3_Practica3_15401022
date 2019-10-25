@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "716796056666",
+    "firebase_url": "https://tpdmu3-edbcd.firebaseio.com",
+    "project_id": "tpdmu3-edbcd",
+    "storage_bucket": "tpdmu3-edbcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716796056666:android:b182f391c9df60689d7463",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tpdm_u3_ejercicio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716796056666-j949raps8slgghnd12q2gdolh3vemod5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAot0PDYllC3j4aB5jZCs_6_7uBd8hXHqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716796056666-j949raps8slgghnd12q2gdolh3vemod5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716796056666:android:cc07726d4fb8690b9d7463",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tpdm_u3_practica3_15401022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716796056666-t2rui4ku2pcme6c62i7otuc5hrp79pif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.tpdm_u3_practica3_15401022",
+            "certificate_hash": "406508f47de2a1e2d3a10608950560dfe3149f5e"
+          }
+        },
+        {
+          "client_id": "716796056666-j949raps8slgghnd12q2gdolh3vemod5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAot0PDYllC3j4aB5jZCs_6_7uBd8hXHqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716796056666-j949raps8slgghnd12q2gdolh3vemod5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
